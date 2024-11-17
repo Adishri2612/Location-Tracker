@@ -1,0 +1,12 @@
+1. support geolocation in browser
+
+2. high accuracy
+3. no cashing
+4. no need to install any software
+5. support multiple geolocation providers
+6. timeout
+7. watch position cont.
+8. zoom level hingh
+9. create marker
+10. if marker for id exists update its positon otherwise create a new makrer 
+11. when user is disconnect marker 
